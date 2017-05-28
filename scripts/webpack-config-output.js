@@ -1,3 +1,4 @@
+"use strict";
 var fs = require('fs');
 var pretty = require('js-object-pretty-print').pretty;
 
